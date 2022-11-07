@@ -6,8 +6,8 @@
     "start": "node app.js"
   },
   "license": "MIT",
-  "dependencies": 
-  {
+  "dependencies": {
+    "cloudflared": "^0.3.3",
     "express": "^4.18.2"
   }
 }
