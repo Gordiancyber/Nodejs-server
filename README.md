@@ -134,7 +134,7 @@ npm-debug.log
 
 
 Step 3 - Building your Docker Image
-What is a Docker Image: 
+What is Docker Image: 
 This is a set of read-only instructions that helps to build a container and makes it possible to run it on a Docker. 
 
 Building your Docker image is quite easy and can be done using a single command.
